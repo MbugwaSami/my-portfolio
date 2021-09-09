@@ -1,6 +1,11 @@
 import './home.css'
+import { FC, ReactElement, useState } from "react";
+
+import DefDatePicker from "react-datepicker"
+import "react-datepicker/dist/react-datepicker.css";
 
 function Home() {
+    const [sstartDate, setsStartDate] = useState(new Date());
     return (
         <section id="home" className="d-flex flex-column justify-content-center">
         <div className="container" data-aos="zoom-in" data-aos-delay="100">

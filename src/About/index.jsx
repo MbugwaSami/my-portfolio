@@ -31,7 +31,7 @@ function Home() {
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor's</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>samimbugwa@gmail.com</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>samimbugwa@gmail.com</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
